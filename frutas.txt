@@ -7,3 +7,8 @@ melencia
 cereja
 tomate
 amora
+limao
+abacate
+uva verde
+maca verde
+kiwi
