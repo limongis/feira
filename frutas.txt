@@ -12,3 +12,7 @@ abacate
 uva verde
 maca verde
 kiwi
+banana
+pera
+melao
+carambola
