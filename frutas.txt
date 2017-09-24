@@ -2,3 +2,8 @@ mamao
 abacaxi
 laranja
 pera
+morango
+melencia
+cereja
+tomate
+amora
